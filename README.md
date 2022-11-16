@@ -1,48 +1,21 @@
-# Frontend Mentor - 3-column preview card component solution
+# 3-column preview
 
-This is a solution to the [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-## Table of contents
-
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-- [Author](#author)
+### Captura de pantalla
+![Imagen](./screenshot.png)
 
 
 
-## Overview
+### Soluciones
 
-### The challenge
-
-Users should be able to:
-
-- View the optimal layout depending on their device's screen size
-- See hover states for interactive elements
+[Ir a GitHub](https://github.com/LetCL/frontendmentor-3-column-preview-card-component-01)
+[Página en vivo](https://letcl.github.io/frontendmentor-3-column-preview-card-component-01/)
 
 
 
-### Screenshot
+## Mi proceso
 
-![An image of my solution](./screenshot.jpg)
-
-Add a screenshot of your desktop solution.
-
-
-
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-
-
-## My process
-
-### Built with
+### Construido con
 
 - Semantic HTML5 markup
 - CSS custom properties
@@ -50,6 +23,6 @@ Add a screenshot of your desktop solution.
 
 
 
-## Author
+## Autor
 
 - Frontend Mentor - [@LetCL](https://www.frontendmentor.io/profile/LetCL)
